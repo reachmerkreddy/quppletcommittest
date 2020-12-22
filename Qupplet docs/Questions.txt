@@ -1,0 +1,15 @@
+1. How many jobs are available in your company – (Intent – JobInfo, Entity – None) 
+2. How many jobs are available at Hyderabad (Intent – JobInfo, Entity – Hyderabad)
+3. What is the base experience for Software Engineer (Intent - JobInfo, Entity – Experience)
+4. How many years of experience do you expect for a Software Engineer (Intent – JobInfo, Entity = experience, Software Engineer)
+5. What is job duration of the project (Intent- JobInfo, Entity-duration)
+6. How to contact company HR (Intent- HR, Entity-contact)
+7. Should onboarding have been longer, shorter, or was it just about right (Intent-onboarding, Entity-longer, shorter)
+8. How many employees onboarded in your company till now (Intent-onboarding, Entity-none)
+9. How many positions and employees do you plan to onboard in 2019(Intent-onboarding, Entity-positions)
+10. What is the training duration and process in company (Intent- training, Entity-duration)
+11. How does the job role fit within the organization’s broader strategy?(Intent- jobinfo, Entity-organization)
+
+
+
+
